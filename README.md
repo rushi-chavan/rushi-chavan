@@ -18,8 +18,11 @@ I'm Rushikesh Chavan, a software enthusiast and aspiring Project Manager. Here y
 Feel free to explore my repositories and reach out to me for collaboration or any questions.
 
 Let's connect and make amazing things together! 🌍
+
 [![LinkedIn]][LinkedIn-url]
 [![YTMusic_Playlist]][YTMusic_Playlist-url]
+[![Riot_Games]][Riot_Games-id]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -90,7 +93,7 @@ Let's connect and make amazing things together! 🌍
 [iOS]: https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white
 [iOS-url]: test
 
-[LinkedIn]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white
+[LinkedIn]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white "rushi-chavan"
 [LinkedIn-url]: https://www.linkedin.com/in/rushi-chavan
 [YTMusic_Playlist]: https://img.shields.io/badge/Music_Playlist-FF0000?style=flat&logo=youtube-music&logoColor=white
 [YTMusic_Playlist-url]: https://music.youtube.com/browse/UCcJvkN84ZwcK6NCkyNg1AyQ
