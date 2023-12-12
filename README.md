@@ -24,6 +24,8 @@ Let's connect and make amazing things together! 🌍
 [![Riot_Games]][Riot_Games-id]
 
 
+https://file.io/qOnN1hGL70ej
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
